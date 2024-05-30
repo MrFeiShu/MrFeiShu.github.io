@@ -1,11 +1,12 @@
 * [首页](/README)
-* [旅游指南](guide)
+
+* [购票指南](/GouPiaoZhiNan/)
 
 * 基本知识
-  * [区县划分](basic/QuXianHuaFen/)
-  * [景区分布](basic/JingQuFenBu/)
+  * [地理知识](basic/DiLiZhiShi/)
+  * [景区概览](basic/JingQuJieShao/)
+  * [张家界国家森林公园](basic/SenLinGongYuan/)
+  * [天门山国家森林公园](basic/TianMenShan/)
+  * [张家界大峡谷](basic/DaXiaGu/)
 
-* 门票
-  * [森林公园](MenPiao/SenLinGongYuan/)
-  * [天门山](MenPiao/TianMenShan/)
-  * [大峡谷](MenPiao/DaXiaGu/)
+* 行程推荐
