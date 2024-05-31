@@ -12,4 +12,6 @@
 
 * [行程推荐](/XingChengTuiJian/)
 
+* [旅行小贴士](/JianYI/)
+
 * [避坑指南](/BiKengZhiNan/)
